@@ -1,8 +1,6 @@
-@import "product.css";
-
 main {
     position: relative;
-    min-height: 100vh;
+    min-height: 10vh;
 }
 
 html {
@@ -37,98 +35,16 @@ body{
 }
 
 body, html {
-    height: 100%}
-
-html body.wide #wrapper.container {
-    min-height: 100%;
-    position: relative;
-    padding-bottom: 226px!important;/*Footer height*/
+    height: 100%
 }
 
 footer {
-    position: relative;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    min-height: 100px;
-    text-align: center;
-    padding: 10px;
-    color: white;
-    box-sizing: border-box;
+    margin-top: 10px;
+    padding-top: 10px;
+    background-color: #222;
 }
 
-@media screen and (max-width: 768px){
-    .card-product {
-        height: 100% !important;
-    }
 
-    .header-form {
-        flex-direction: column;
-    }
 
-    .header-button {
-        margin-top: 10px;
-    }
 
-}
-.overTss {
-    text-align: center;
-    margin-right: 100px;
-    margin-left: 100px;
-}
 
-.alert{
-    display: none;
-}
-
-.button-contact {
-    background: transparent;
-    border: none !important;
-    font-size:0;
-}
-
-.img-home {
-    margin-right: 0;
-    padding-right: 0;
-}
-
-.home-container {
-    position: relative;
-    text-align: center;
-    color: white;
-
-    background-image: url("https://wallpapercave.com/wp/wp2465235.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    height: 450px;
-}
-
-.banner-cover {
-    background-color: rgba(0, 0, 0, 0.46);
-    height: 100%;
-}
-
-/* Centered text */
-.home-centered {
-    font-size: 75px;
-}
-
-.home-centered2 {
-    position: absolute;
-    top: 75%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 25px;
-}
-.home-image {
-    height: 250px;
-}
-
-home_assortiment {
-    font-size: 40px;
-}
-
-.product-full-d {
-    width: 100%;
-}

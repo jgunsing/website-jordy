@@ -1,5 +1,7 @@
-<footer class="bg-success text-center text-white position-relative mt-5">
-    <div>
+</main>
+<footer class="bg-light text-center text-white position-relative mt-5">
+    <!-- Grid container -->
 
-    </div>
+
 </footer>
+</body>
