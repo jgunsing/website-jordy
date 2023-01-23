@@ -3,7 +3,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link text-dark" href="/">vaardigheden</a>
+                    <a class="nav-link text-dark" href="/">wie ben ik?</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-dark" href="/werkervaring">werkervaring</a>
