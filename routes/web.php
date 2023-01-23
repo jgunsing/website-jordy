@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('/werkervaring', function () {
     return view('werkervaring');
 });
+
+Route::get('/opleidingen', function () {
+    return view('opleidingen');
+});

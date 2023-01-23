@@ -44,7 +44,16 @@ footer {
     background-color: #222;
 }
 
+.windows-svg {
+    display: inline-block;
+    vertical-align: middle;
+}
 
-
-
-
+.float-to-left {
+    margin-left: 10px;
+    position: absolute;
+    max-width: 100px;
+}
+.padding-right {
+    padding: 100px;
+}

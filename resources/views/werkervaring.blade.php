@@ -2,8 +2,6 @@
 
 @section('content')
     <div class=" d-flex p-4">
-
-
         <div class="container d-lg-block">
             <div class="mt-4" style="max-width: 80vw;">
                 <h3 class="bold">Ervaring</h3>
@@ -80,6 +78,10 @@
                         <p></p>
                     </div>
                 </div>
+                <br>
+                <br>
+                <br>
+                <br>
 
 
             </div>
