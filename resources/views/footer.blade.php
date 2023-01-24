@@ -1,4 +1,4 @@
-<footer class="bg-light fixed-bottom">
+<footer class="bg-light position-relative">
     <div class="text-center text-dark p-3">
         © 2022 Copyright
     </div>

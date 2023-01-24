@@ -14,13 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('vaardigheden');
-});
-
-Route::get('/werkervaring', function () {
-    return view('werkervaring');
-});
-
-Route::get('/opleidingen', function () {
-    return view('opleidingen');
+    return view('homepage');
 });
