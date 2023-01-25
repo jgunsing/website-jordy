@@ -11,7 +11,6 @@ html {
 body {
     position: relative;
     height: 100%;
-    background-color: red;
 }
 
 .badge {
@@ -70,64 +69,7 @@ footer {
     }
 
 }
-.overTss {
-    text-align: center;
-    margin-right: 100px;
-    margin-left: 100px;
-}
 
-.alert{
-    display: none;
-}
 
-.button-contact {
-    background: transparent;
-    border: none !important;
-    font-size:0;
-}
 
-.img-home {
-    margin-right: 0;
-    padding-right: 0;
-}
 
-.home-container {
-    position: relative;
-    text-align: center;
-    color: white;
-
-    background-image: url("https://wallpapercave.com/wp/wp2465235.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    height: 450px;
-}
-
-.banner-cover {
-    background-color: rgba(0, 0, 0, 0.46);
-    height: 100%;
-}
-
-/* Centered text */
-.home-centered {
-    font-size: 75px;
-}
-
-.home-centered2 {
-    position: absolute;
-    top: 75%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 25px;
-}
-.home-image {
-    height: 250px;
-}
-
-home_assortiment {
-    font-size: 40px;
-}
-
-.product-full-d {
-    width: 100%;
-}

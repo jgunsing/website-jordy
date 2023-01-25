@@ -26,13 +26,10 @@
             background-color: white;
             color: black;
         }
-        header {
-            background-color: #828181;
-        }
 
         .dark-mode {
-            background-color: black;
-            color: white;
+            background-color: #121212;
+            color: #ffffff;
         }
     </style>
 </head>

@@ -1,6 +1,6 @@
-<footer class="bg-light position-relative">
+<footer class="position-relative">
     <div class="text-center text-dark p-3">
-        © 2022 Copyright
+        <p  style="color: #b3b3b3"> © 2022 Copyright</p>
     </div>
     <div>
         <a href="https://github.com/jgunsing/persoonlijke-site"><button class="btn btn-dark" type="button">

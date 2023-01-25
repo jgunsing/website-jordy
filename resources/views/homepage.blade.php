@@ -18,7 +18,6 @@
     <div class=" d-flex p-4">
         <div class="container d-lg-block">
             <div id="opleidingen" class="float-end">
-
                 <br>
                 <p class="h4 fw-bold">Opleidingen</p>
                 <p class="h5 fw-bold">HBO ICT (Infrastructure design & infrastructure)</p>
@@ -31,8 +30,6 @@
                 <p class="h6 fw-light">Apr ’22</p>
                 <p class="h5 fw-bold">B-VCA</p>
                 <p class="h6 fw-light">Sep ’22</p>
-
-
             </div>
             <div class="mt-4" style="max-width: 19vw;">
                 <p class="h3 fw-bold">Vaardigheden</p>
@@ -99,7 +96,6 @@
                         <p></p>
                     </div>
                 </div>
-
                 <div class="mt-3">
                     <h5>Royal Cosun (Stage)</h5>
                     <p>Feb ’21 - Jul ’21</p>
