@@ -3,12 +3,14 @@
 @section('content')
     <div class=" d-flex p-4">
         <div class="container d-lg-block">
-            <div id="wiebenik" class="mt-4" >
+            <div id="overmij" class="mt-4" >
                 <p class="fw-bold h3">Wie ben ik?</p>
                 <div class="mt-4">
                     <div class="mt-4" style="max-width: 80vw;">
                         <p class="font-italic" style="margin: 0px; padding: 0px;">
-                            "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+                        Mijn naam is Jordy Gunsing, ik ben een ambitieuze en enthousiaste professional met ervaring in ICT beheer. Momenteel ben ik werkzaam als Trainee Cloud & Connectivity bij Royal Cosun, waar ik verantwoordelijk ben voor het dagelijks beheer van de storage- en virtualisatiesystemen.
+Daarnaast heb ik ook ervaring als Servicedesk medewerker bij Royal Cosun, waar ik verantwoordelijk was voor het oplossen van technische problemen en het bieden van ondersteuning aan gebruikers.
+Ik ben gedreven om te leren en te groeien in mijn vakgebied en door mijn ervaring in verschillende functies en stages bij Royal Cosun, heb ik een brede kennis opgedaan in de ICT-sector en ben ik in staat om zowel zelfstandig als in teamverband te werken.
                         </p>
                     </div>
                 </div>
@@ -60,10 +62,10 @@
             </div>
         </div>
     </div>
-    <div class="d-flex p-4" id="werkervaring">
+    <div class="d-flex p-4">
         <div class="container d-lg-block">
-            <div class="mt-4" style="max-width: 80vw;">
-                <h3 class="bold">Ervaring</h3>
+            <div id="werkervaring" class="mt-4" style="max-width: 80vw;">
+                <h3 class="bold">Werkervaring</h3>
                 <div class="mt-3">
                     <h5>Royal Cosun (Trainee Cloud & Connectivity)</h5>
                     <p>Jul ’22 - Heden</p>
@@ -140,8 +142,6 @@
                 <br>
                 <br>
                 <br>
-
-
             </div>
         </div>
     </div>
