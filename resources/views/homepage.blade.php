@@ -5,7 +5,7 @@
         <div class="container d-lg-block">
             <div id="overmij" class="m-5" >
                 <p class="fw-bold h3">Wie ben ik?</p>
-                <div id="werkervaring" class="mt-1" style="max-width: 80vw;">
+                <div class="mt-1" style="max-width: 80vw;">
                         <p class="font-italic" style="margin: 0px; padding: 0px;">
                         Mijn naam is Jordy Gunsing, ik ben een ambitieuze en enthousiaste professional met ervaring in ICT beheer. Momenteel ben ik werkzaam als Trainee Cloud & Connectivity bij Royal Cosun, waar ik verantwoordelijk ben voor het dagelijks beheer van de storage- en virtualisatiesystemen.
                         Daarnaast heb ik ook ervaring als Servicedesk medewerker bij Royal Cosun, waar ik verantwoordelijk was voor het oplossen van technische problemen en het bieden van ondersteuning aan gebruikers.

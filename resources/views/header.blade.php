@@ -43,6 +43,9 @@
             var elem = document.getElementById("werkervaring");
             elem.scrollIntoView();
         }
+        if (screen.width <= 1080) {
+            alert("This device has a low screen resolution");
+        }
     </script>
     <style>
         * {
@@ -94,10 +97,6 @@
             color: black;
         }
 
-        .float-end {
-            float: right;
-            text-align: center;
-        }
 
     </style>
 
