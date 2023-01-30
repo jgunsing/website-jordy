@@ -1,39 +1,23 @@
 @extends('master')
 
 @section('content')
-    <div class=" d-flex p-4">
+    <div class="d-flex p-4">
         <div class="container d-lg-block">
-            <div id="overmij" class="mt-4" >
+            <div id="overmij" class="m-5" >
                 <p class="fw-bold h3">Wie ben ik?</p>
-                <div class="mt-4">
-                    <div class="mt-4" style="max-width: 80vw;">
+                <div id="werkervaring" class="mt-1" style="max-width: 80vw;">
                         <p class="font-italic" style="margin: 0px; padding: 0px;">
                         Mijn naam is Jordy Gunsing, ik ben een ambitieuze en enthousiaste professional met ervaring in ICT beheer. Momenteel ben ik werkzaam als Trainee Cloud & Connectivity bij Royal Cosun, waar ik verantwoordelijk ben voor het dagelijks beheer van de storage- en virtualisatiesystemen.
-Daarnaast heb ik ook ervaring als Servicedesk medewerker bij Royal Cosun, waar ik verantwoordelijk was voor het oplossen van technische problemen en het bieden van ondersteuning aan gebruikers.
-Ik ben gedreven om te leren en te groeien in mijn vakgebied en door mijn ervaring in verschillende functies en stages bij Royal Cosun, heb ik een brede kennis opgedaan in de ICT-sector en ben ik in staat om zowel zelfstandig als in teamverband te werken.
+                        Daarnaast heb ik ook ervaring als Servicedesk medewerker bij Royal Cosun, waar ik verantwoordelijk was voor het oplossen van technische problemen en het bieden van ondersteuning aan gebruikers.
+                        Ik ben gedreven om te leren en te groeien in mijn vakgebied en door mijn ervaring in verschillende functies en stages bij Royal Cosun, heb ik een brede kennis opgedaan in de ICT-sector en ben ik in staat om zowel zelfstandig als in teamverband te werken.
                         </p>
                     </div>
-                </div>
             </div>
         </div>
     </div>
-    <div class=" d-flex p-4">
+    <div class=" d-flex">
         <div class="container d-lg-block">
-            <div id="opleidingen" class="float-end">
-                <br>
-                <p class="h4 fw-bold">Opleidingen</p>
-                <p class="h5 fw-bold">HBO ICT (Infrastructure design & infrastructure)</p>
-                <p class="h6 fw-light">Aug ’22 - Heden</p>
-                <p class="h5 fw-bold">MBO-4 ICT Beheer</p>
-                <p class="h6 fw-light">Aug ’18 - Jul ’21 </p>
-                <br>
-                <p class="h4 fw-bold">Certificaten</p>
-                <p class="h5 fw-bold">AZ-900 (Azure Fundementals)</p>
-                <p class="h6 fw-light">Apr ’22</p>
-                <p class="h5 fw-bold">B-VCA</p>
-                <p class="h6 fw-light">Sep ’22</p>
-            </div>
-            <div class="mt-4" style="max-width: 19vw;">
+            <div id="opleidingen" class="mt-4" style="max-width: 19vw;">
                 <p class="h3 fw-bold">Vaardigheden</p>
                 <p class="h4 fw-light">Infrastructuur</p>
                 <div class="mt-3">
